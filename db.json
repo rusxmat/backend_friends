@@ -1,5 +1,4 @@
-{ 
-    "users":[
+"users":[
     {
         "id": "sampleid1",
         "userName": "beili",
@@ -24,5 +23,4 @@
         "receivedFriendRequests": [],
         "sentFriendRequest": ["sampleid2"],
     }
-    ]
-}
+]
