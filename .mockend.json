@@ -5,7 +5,7 @@
         "displayName": "Beili",
         "friends": ["sampleid2", "sampleid3"],
         "receivedFriendRequests": [],
-        "sentFriendRequest": [],
+        "sentFriendRequest": []
     },
     {
         "id": "sampleid2",
@@ -13,7 +13,7 @@
         "displayName": "Claizel",
         "friends": ["sampleid1"],
         "receivedFriendRequests": ["sampleid3"],
-        "sentFriendRequest": [],
+        "sentFriendRequest": []
     },
     {
         "id": "sampleid3",
@@ -21,6 +21,6 @@
         "displayName": "Coubeili",
         "friends": ["sampleid1"],
         "receivedFriendRequests": [],
-        "sentFriendRequest": ["sampleid2"],
+        "sentFriendRequest": ["sampleid2"]
     }
 ]
